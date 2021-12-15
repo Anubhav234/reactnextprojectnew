@@ -1,0 +1,8 @@
+.navitem{
+    display: flex;
+    text-decoration: none;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
